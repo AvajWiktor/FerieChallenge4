@@ -1,7 +1,4 @@
-
 import random
-import json
-import requests
 
 def get_category(bmi):
         if bmi >= 40: 
